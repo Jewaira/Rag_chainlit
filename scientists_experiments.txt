@@ -1,0 +1,32 @@
+Experiments of Famous Scientists
+
+1.  Galileo Galilei - Inclined Plane Experiment Galileo rolled balls
+    down inclined planes to study motion, demonstrating that objects
+    accelerate uniformly under gravity.
+
+2.  Isaac Newton - Prism Experiment Newton passed white light through a
+    prism, showing that it splits into a spectrum of colors, proving
+    light is made of many colors.
+
+3.  Antoine Lavoisier - Combustion Experiment Lavoisier burned
+    substances in closed containers, discovering that oxygen is required
+    for combustion, laying foundations of modern chemistry.
+
+4.  Michael Faraday - Electromagnetic Induction Faraday demonstrated
+    that moving a magnet through a coil generates an electric current,
+    leading to the principle of the electric generator.
+
+5.  Gregor Mendel - Pea Plant Experiments Mendel cross-bred pea plants
+    to discover the laws of inheritance, founding modern genetics.
+
+6.  Marie Curie - Radioactivity Experiments Curie isolated radium and
+    polonium, discovering properties of radioactivity that transformed
+    physics and medicine.
+
+7.  Albert Einstein - Photoelectric Effect Einstein explained that light
+    consists of photons that can knock electrons off metal surfaces,
+    helping establish quantum theory.
+
+8.  James Watson & Francis Crick - DNA Structure Using X-ray diffraction
+    data, Watson and Crick built a model of the DNA double helix,
+    revealing the molecular basis of heredity.
